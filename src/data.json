@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "title": "bet",
+    "titleES": "apostar",
+    "forms": {
+      "infinitive": "bet",
+      "simplePast": "bet",
+      "pastParticiple": "bet"
+    },
+    "meaning": "apostar",
+    "img": "/src/assets/img/bet.png",
+    "examples": ["I bet", "You bet a lot"]
+  },
+  {
+    "id": 0,
+    "title": "burst",
+    "titleES": "estallar",
+    "forms": {
+      "infinitive": "burst",
+      "simplePast": "burst",
+      "pastParticiple": "burst"
+    },
+    "meaning": "estallar",
+    "img": "/src/assets/img/burst.png",
+    "examples": ["I burst", "You burst a lot"]
+  },
+  {
+    "id": 0,
+    "title": "cut",
+    "titleES": "cortar",
+    "forms": {
+      "infinitive": "cut",
+      "simplePast": "cut",
+      "pastParticiple": "cut"
+    },
+    "meaning": "cortar",
+    "img": "/src/assets/img/cut.png",
+    "examples": ["I cut", "You cut a lot"]
+  },
+  {
+    "id": 0,
+    "title": "fit",
+    "titleES": "llenar",
+    "forms": {
+      "infinitive": "fit",
+      "simplePast": "fit",
+      "pastParticiple": "fit"
+    },
+    "meaning": "llenar, caber",
+    "img": "/src/assets/img/fit.png",
+    "examples": ["I fit", "You fit a lot"]
+  },
+  {
+    "id": 0,
+    "title": "hit",
+    "titleES": "golpear",
+    "forms": {
+      "infinitive": "hit",
+      "simplePast": "hit",
+      "pastParticiple": "hit"
+    },
+    "meaning": "pegar, golpear",
+    "img": "/src/assets/img/hit.png",
+    "examples": ["I hit", "You hit a lot"]
+  }
+]
